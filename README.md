@@ -4,6 +4,8 @@ https://epg.112114.eu.org/,https://epg.112114.xyz/pp.xml/,http://epg.51zmt.top:8
 
 https://github.com/pkj99/YTLive
 
+https://github.com/eujc/AX3000T
+
 alist：https://alist.nn.ci/zh/guide/drivers/baidu.html
 
 alist百度网盘：https://openapi.baidu.com/oauth/2.0/authorize?response_type=code&client_id=iYCeC9g08h5vuP9UqvPHKKSVrKFXGa1v&redirect_uri=https://alist.nn.ci/tool/baidu/callback&scope=basic,netdisk&qrcode=1
