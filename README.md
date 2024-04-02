@@ -2,6 +2,8 @@
 
 https://epg.112114.eu.org/,https://epg.112114.xyz/pp.xml/,http://epg.51zmt.top:8000/e.xml/,http://epg.aptvapp.com/xml/,https://epg.pw/xmltv.html?lang=zh-hant
 
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
+
 https://github.com/YueChan/Live/tree/main
 
 https://github.com/pkj99/YTLive
