@@ -98,7 +98,7 @@ https://panyq.com
 
 https://ylu.cc
 
-https://www.btnull.org
+https://ip.skk.moe
 
 hysteria2一键部署：
 
