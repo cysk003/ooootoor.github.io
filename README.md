@@ -92,6 +92,14 @@ https://agit.ai/1018610504/3/raw/branch/master/100.json
 
 https://tv.lan2wan.top/candymuj18.json
 
+https://igdux.com/ai3
+
+https://panyq.com
+
+https://ylu.cc
+
+https://www.btnull.org
+
 hysteria2一键部署：
 
 wget -N --no-check-certificate https://raw.githubusercontent.com/Misaka-blog/hysteria-install/main/hy2/hysteria.sh && bash hysteria.sh
